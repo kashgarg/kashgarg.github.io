@@ -105,6 +105,8 @@
 
 body {
     font-family: 'Noto Sans', sans-serif;
+    background-color: #e2f8ec;
+    color: #333333;
 }
    
    h1,
@@ -136,6 +138,16 @@ form input[type='submit'] {
 
 .form-heading {
  margin-bottom: 8px !important;
+}
+
+.container > div {
+    margin: 20px auto;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #a0aaa4;
 }
 
 
